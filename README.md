@@ -1,4 +1,4 @@
-This is an agent-based simulation that models predator-prey dynamics, integrated with learning capabilities in an artificial ecosystem. The simulation examines the way adaptive behaviors drive population stability, competition for resources, and ecosystem resilience in changing environments. The Python and PyGame-driven project illustrates fundamental ecological principles with real-time visualization and comprehensive data analysis.  CHEER!
+This is an agent-based simulation that models predator-prey dynamics, integrated with learning capabilities in an artificial ecosystem. The simulation examines the way adaptive behaviors drive population stability, competition for resources, and ecosystem resilience in changing environments. The Python and PyGame-driven project illustrates fundamental ecological principles with real-time visualization and comprehensive data analysis.  CHEERS!
 
 No special software is needed to run the application. All 10 scenarios run one after the other.
 
